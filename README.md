@@ -15,4 +15,4 @@ This is the Central Hub for HireHustle Graduation Project.
 
 ## Backend (Spring Boot)
 
-- [Backend](https://github.com/Nour7120/HireHustle-Backend)
+- [Backend](https://github.com/hosnee-khaled/HireHustle-Backend.git)
