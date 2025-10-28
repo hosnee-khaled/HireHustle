@@ -11,7 +11,7 @@ This is the Central Hub for HireHustle Graduation Project.
 ## Frontend (Flutter)
 
 - [Applicant App](https://github.com/hosnee-khaled/HireHustle-Applicants-Frontend.git)
-- [HR App](https://github.com/Nour7120/HireHustle-HR-Frontend)
+- [HR App](https://github.com/hosnee-khaled/HireHustle-HR-Frontend.git)
 
 ## Backend (Spring Boot)
 
